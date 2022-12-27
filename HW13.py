@@ -1,5 +1,3 @@
-# method 1
-
 import re
 
 total = 0
