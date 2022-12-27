@@ -1,4 +1,4 @@
-# method 1
+
 
 import re
 
